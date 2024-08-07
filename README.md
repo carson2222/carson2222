@@ -7,6 +7,8 @@ I'm Carson, WebDev nerd, GymRat & Web3 enthusiastic
 - 🎬 Hobbies: Self Improvement, Web3, Books, Gym & Video Games
 - ✍️ [LeetCode](https://leetcode.com/carson2222/) [Codewars](https://www.codewars.com/users/carson2222)
 - 📫 Reach me on [Twitter](https://twitter.com/carson3068) Discord -> carson5915
+
+📂 My additional projects that i can't make public on github: [link](https://drive.google.com/file/d/1SkStDEhgbBNO-9onlGMf8Bj2qf9Ooegn/view?usp=sharing)
 <!---
 carson2222/carson2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
