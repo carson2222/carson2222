@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Mostly Used Frameworks, Platforms, Databases and Libraries</h3>
 <div width="100%" display="flex" align="center">
   <code><img src="https://img.icons8.com/offices/40/react.png"></code>
-  <code><img src="https://img.icons8.com/offices/40/nextjs.png"></code>
+  <code><img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png&color=000000"></code>
   <code><img src="https://img.icons8.com/fluency/48/node-js.png"></code>
   <code><img src="https://img.icons8.com/color/48/tailwindcss.png"></code>
   <code><img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png" style="width: 48px; height: 48px; object-fit: contain;"></code>
