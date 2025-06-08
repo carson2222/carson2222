@@ -57,3 +57,31 @@ You can click the Preview link to take a look at your changes.
   <img alt="productive-time" src="productive-time.svg" />
   </picture>
 </div>
+
+#
+
+<h3 align="center">My Current Tech Stack 🏆</h3>
+<div width="100%" display="flex" align="center">
+  <code><img src="https://img.icons8.com/color/48/typescript.png"></code>
+  <code><img src="https://img.icons8.com/color/48/javascript.png"></code>
+  <code><img src="https://img.icons8.com/color/48/css.png"></code>
+  <code><img src="https://img.icons8.com/color/48/html.png"></code>
+  <code><img src="https://img.icons8.com/color/48/cs.png"></code>
+  <code><img src="https://img.icons8.com/color/48/golang.png"></code>
+</div>
+
+<h3 align="center">Mostly Used Frameworks, Platforms, Databases and Libraries</h3>
+<div width="100%" display="flex" align="center">
+  <code><img src="https://img.icons8.com/offices/40/react.png"></code>
+  <code><img src="https://img.icons8.com/offices/40/nextjs.png"></code>
+  <code><img src="https://img.icons8.com/fluency/48/node-js.png"></code>
+  <code><img src="https://img.icons8.com/color/48/tailwindcss.png"></code>
+  <code><img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png" style="width: 48px; height: 48px; object-fit: contain;"></code>
+  <code><img src="https://img.icons8.com/color/48/npm.png"></code>
+  <code><img src="https://img.icons8.com/color/48/mysql.png"></code>
+  <code><img src="https://img.icons8.com/?size=48&id=38561&format=png&color=000000"></code>
+  <code><img src="https://img.icons8.com/color/48/supabase.png"></code>
+  <code><img src="https://img.icons8.com/color/48/docker.png"></code>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile🧑‍💻&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
