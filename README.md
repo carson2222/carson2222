@@ -1,7 +1,7 @@
 👋 Hi there
 I'm Carson, WebDev nerd, GymRat & Web3 enthusiastic
 
-I'm a 19-year-old programmer specializing in JavaScript and TypeScript, with a strong focus on flexibility and rapid adaptation. Whether it's picking up new technologies, frameworks, or tackling unfamiliar challenges, I thrive in fast-paced environments and continuously expand my skill set to deliver efficient, modern solutions.
+I'm a 19-year-old programmer with a strong foundation in JavaScript and TypeScript. I recently graduated from a technical school with a specialization in programming and am about to begin my IT studies at a university in Silesia. What sets me apart is my flexibility and ability to quickly adapt to new technologies and challenges — I thrive in dynamic environments and continuously expand my skills to stay ahead in the ever-evolving tech landscape.
 
 Reach me on [Twitter](https://twitter.com/carson3068); Discord -> carson5915
 
