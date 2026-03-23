@@ -21,11 +21,3 @@ Web3 & Full-stack Developer
   <img alt="streak" src="streak.svg" />
   </picture>
 </div>
-
-<div width ="100%" display="flex" align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carson2222&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carson2222" />
-  <img alt="profile-details" src="profile-details.svg" />
-  </picture>
-</div>
