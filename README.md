@@ -12,12 +12,12 @@ Web3 & Full-stack Developer
     </a> -->
   </div>
 
-#
 
+ <!--#
 <div width ="100%" display="flex" align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=carson2222&theme=dark&hide_border=true&background=141321" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=carson2222&theme=dark&hide_border=true&background=141321" />
   <img alt="streak" src="streak.svg" />
   </picture>
-</div>
+</div>-->
