@@ -18,7 +18,8 @@
 - **[hip4.io](https://hip4.io)** - HIP-4 interface on Hyperliquid [![X](https://img.shields.io/badge/-hip4io-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hip4io)
 - **[opencode-smartsnip](https://github.com/carson2222/opencode-smartsnip)** - OpenCode plugin for cutting noisy shell output
 - **[skills](https://github.com/carson2222/skills)** - my own agent skills I use daily
-- **Fusion** - (WIP)
+- **[Fusion](https://github.com/carson2222/fusion))** OpenCode plugin for hard tasks. Run a panel of models on one hard prompt, merged into one answer
+
 
 ---
 
